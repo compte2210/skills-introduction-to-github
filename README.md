@@ -49,3 +49,8 @@ In this exercise, you will:
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+# Bienvenue sur mon premier dépôt GitHub
+
+Je m'appelle compte2210 et j'apprends à utiliser Git et GitHub grâce à GitHub Skills 🚀
+Ce fichier `README.md` est ma première contribution !
